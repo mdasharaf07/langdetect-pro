@@ -19,7 +19,7 @@ A production-ready full-stack application that detects the language of input tex
 
 ## Screenshot
 
-![App Screenshot](https://postimg.cc/sBWYkB6Z)
+![App Screenshot](https://i.postimg.cc/cJ9F8wfT/nlp.png)
 
 ---
 
