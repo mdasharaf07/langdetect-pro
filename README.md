@@ -7,11 +7,9 @@ A production-ready full-stack application that detects the language of input tex
 ## Features
 
 - Language Detection (150+ languages)
-- FastText Model (lid.176.bin)
+- FastText Model
 - Script Detection (Tamil, Hindi, Arabic, etc.)
 - Top-3 Predictions with Confidence Scores
-- Basic Rate Limiting
-- Request Logging
 - Modern React Frontend (Tailwind UI)
 - Docker Support (Full-stack deployment)
 
